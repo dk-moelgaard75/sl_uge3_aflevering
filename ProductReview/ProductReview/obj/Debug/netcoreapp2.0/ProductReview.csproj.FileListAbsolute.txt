@@ -1,0 +1,12 @@
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\bin\Debug\netcoreapp2.0\ProductReview.deps.json
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\bin\Debug\netcoreapp2.0\ProductReview.runtimeconfig.json
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\bin\Debug\netcoreapp2.0\ProductReview.runtimeconfig.dev.json
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\bin\Debug\netcoreapp2.0\ProductReview.dll
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\obj\Debug\netcoreapp2.0\ProductReview.csprojAssemblyReference.cache
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\obj\Debug\netcoreapp2.0\ProductReview.csproj.CoreCompileInputs.cache
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\obj\Debug\netcoreapp2.0\ProductReview.AssemblyInfoInputs.cache
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\obj\Debug\netcoreapp2.0\ProductReview.AssemblyInfo.cs
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\bin\Debug\netcoreapp2.0\ProductReview.pdb
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\obj\Debug\netcoreapp2.0\ProductReview.dll
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\obj\Debug\netcoreapp2.0\ProductReview.pdb
+C:\udv\sl_uge3_aflevering\ProductReview\ProductReview\bin\Debug\netcoreapp2.0\config.xml
