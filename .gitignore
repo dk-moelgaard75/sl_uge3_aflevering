@@ -13,3 +13,9 @@ ProductReview/ProductReview/obj/ProductReview.csproj.nuget.cache
 ProductReview/ProductReview/obj/ProductReview.csproj.nuget.g.props
 ProductReview/ProductReview/obj/ProductReview.csproj.nuget.g.targets
 ProductReview/ProductReview/obj/project.assets.json
+ProductReview/ProductReview/bin/Debug/netcoreapp2.0/config.xml
+ProductReview/ProductReview/bin/Debug/netcoreapp2.0/ProductReview.deps.json
+ProductReview/ProductReview/bin/Debug/netcoreapp2.0/ProductReview.dll
+ProductReview/ProductReview/bin/Debug/netcoreapp2.0/ProductReview.pdb
+ProductReview/ProductReview/bin/Debug/netcoreapp2.0/ProductReview.runtimeconfig.dev.json
+ProductReview/ProductReview/bin/Debug/netcoreapp2.0/ProductReview.runtimeconfig.json
