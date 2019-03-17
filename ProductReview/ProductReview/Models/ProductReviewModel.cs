@@ -23,5 +23,12 @@ namespace ProductReview.Models
         public string Name { get; set; }
         public string Product { get; set; }
         public int ProductScore { get; set; }
+        public void ClearModel()
+        {
+            Name = "";
+            Product = "";
+            ProductScore = 0;
+            _id = Guid.Empty;
+        }
     }
 }
