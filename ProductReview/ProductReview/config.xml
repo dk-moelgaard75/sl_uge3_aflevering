@@ -2,7 +2,7 @@
 <configuration>
   <connectiontype>mssql</connectiontype>
   <mssql>
-    <connectionstring>value</connectionstring>
+    <connectionstring>Server=localhost\sqlexpress2017;Database=smartlearning;Uid=smartlearning;Pwd=smartlearning;</connectionstring>
   </mssql>
   <postgres>
     <connectionstring>value</connectionstring>

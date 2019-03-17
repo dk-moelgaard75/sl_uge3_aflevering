@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Configuration;
 using ProductReview.Models;
+using ProductReview.Utility;
 
 namespace ProductReview.DAL
 {
@@ -19,7 +20,7 @@ namespace ProductReview.DAL
         {
             SqlConnection conn = GetConnection();
             conn.Open();
-            String sql = @"INSER INTO productreview (reviewid,name,product,score) VALUES (@reviewId,@name,@product,@score)";
+            String sql = @"INSERT INTO productreview (reviewid,name,product,score) VALUES (@reviewId,@name,@product,@score)";
             SqlCommand dbCommand = new SqlCommand(sql, conn);
             dbCommand.Parameters.AddWithValue("@reviewId", productReviewModel.id);
             dbCommand.Parameters.AddWithValue("@name", productReviewModel.Name);
@@ -37,7 +38,7 @@ namespace ProductReview.DAL
                 if (_connString == null)
                 {
                     string key = "mssql:connectionstring";
-                    string setting = ConfigurationManager.AppSettings[key];
+                    _connString = AppConfigUtil.GetKey(key); //configuration[key];
                 }
                 return _connString;
             }
